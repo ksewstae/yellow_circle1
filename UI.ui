@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Желтые окружности</string>
+  </property>
+  <widget class="QPushButton" name="paint_btn">
+   <property name="geometry">
+    <rect>
+     <x>225</x>
+     <y>250</y>
+     <width>150</width>
+     <height>100</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Нарисуй
+окружность</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
